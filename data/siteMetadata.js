@@ -1,8 +1,8 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: "Yolkflow's Blog",
-  author: 'Yolkflow',
-  headerTitle: 'Yolkflow',
+  title: "c4a4d65b's Blog",
+  author: 'c4a4d65b',
+  headerTitle: 'c4a4d65b',
   description: 'Thoughts, notes, and explorations in tech',
   language: 'en-us',
   theme: 'system', // system, dark or light
