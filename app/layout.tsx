@@ -10,6 +10,7 @@ import SectionContainer from '@/components/SectionContainer'
 import Footer from '@/components/Footer'
 import siteMetadata from '@/data/siteMetadata'
 import { ThemeProviders } from './theme-providers'
+import { Analytics as VercelAnalytics } from '@vercel/analytics/next'
 import { Metadata } from 'next'
 
 const space_grotesk = Space_Grotesk({
@@ -105,6 +106,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <Footer />
           </SectionContainer>
         </ThemeProviders>
+        <VercelAnalytics />
       </body>
     </html>
   )
