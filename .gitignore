@@ -45,3 +45,9 @@ yarn-error.log*
 
 # Contentlayer
 .contentlayer
+
+# editor
+.obsidian/
+
+# stray npm lockfile (this is a Yarn project)
+package-lock.json
