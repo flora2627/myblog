@@ -1,6 +1,7 @@
 {
-  "random-thoughts": 3,
-  "interpretability": 1,
-  "ai-security": 1,
-  "transformers": 1
+  "interpretability": 2,
+  "ai-security": 2,
+  "agents": 1,
+  "transformers": 1,
+  "random-thoughts": 3
 }
