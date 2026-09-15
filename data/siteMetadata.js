@@ -6,7 +6,7 @@ const siteMetadata = {
   description: 'Thoughts, notes, and explorations in tech',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://flora2627.github.io/myblog',
+  siteUrl: 'https://c4a4d65b.xyz',
   siteRepo: 'https://github.com/flora2627/myblog',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
